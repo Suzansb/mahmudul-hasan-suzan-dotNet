@@ -144,3 +144,16 @@ W:\ASPdotNet\DevSlkill.Inventory\DevSkill.Inventory.Web\obj\Debug\net8.0\refint\
 W:\ASPdotNet\DevSlkill.Inventory\DevSkill.Inventory.Web\obj\Debug\net8.0\DevSkill.Inventory.Web.pdb
 W:\ASPdotNet\DevSlkill.Inventory\DevSkill.Inventory.Web\obj\Debug\net8.0\DevSkill.Inventory.Web.genruntimeconfig.cache
 W:\ASPdotNet\DevSlkill.Inventory\DevSkill.Inventory.Web\obj\Debug\net8.0\ref\DevSkill.Inventory.Web.dll
+W:\ASPdotNet\mahmudul-hasan-suzan-dotNet\DevSlkill.Inventory\DevSkill.Inventory.Web\obj\Debug\net8.0\DevSkill.Inventory.Web.csproj.AssemblyReference.cache
+W:\ASPdotNet\mahmudul-hasan-suzan-dotNet\DevSlkill.Inventory\DevSkill.Inventory.Web\obj\Debug\net8.0\DevSkill.Inventory.Web.GeneratedMSBuildEditorConfig.editorconfig
+W:\ASPdotNet\mahmudul-hasan-suzan-dotNet\DevSlkill.Inventory\DevSkill.Inventory.Web\obj\Debug\net8.0\DevSkill.Inventory.Web.AssemblyInfoInputs.cache
+W:\ASPdotNet\mahmudul-hasan-suzan-dotNet\DevSlkill.Inventory\DevSkill.Inventory.Web\obj\Debug\net8.0\DevSkill.Inventory.Web.AssemblyInfo.cs
+W:\ASPdotNet\mahmudul-hasan-suzan-dotNet\DevSlkill.Inventory\DevSkill.Inventory.Web\obj\Debug\net8.0\DevSkill.Inventory.Web.csproj.CoreCompileInputs.cache
+W:\ASPdotNet\mahmudul-hasan-suzan-dotNet\DevSlkill.Inventory\DevSkill.Inventory.Web\obj\Debug\net8.0\DevSkill.Inventory.Web.MvcApplicationPartsAssemblyInfo.cs
+W:\ASPdotNet\mahmudul-hasan-suzan-dotNet\DevSlkill.Inventory\DevSkill.Inventory.Web\obj\Debug\net8.0\DevSkill.Inventory.Web.MvcApplicationPartsAssemblyInfo.cache
+W:\ASPdotNet\mahmudul-hasan-suzan-dotNet\DevSlkill.Inventory\DevSkill.Inventory.Web\obj\Debug\net8.0\DevSkill.Inventory.Web.RazorAssemblyInfo.cache
+W:\ASPdotNet\mahmudul-hasan-suzan-dotNet\DevSlkill.Inventory\DevSkill.Inventory.Web\obj\Debug\net8.0\DevSkill.Inventory.Web.RazorAssemblyInfo.cs
+W:\ASPdotNet\mahmudul-hasan-suzan-dotNet\DevSlkill.Inventory\DevSkill.Inventory.Web\obj\Debug\net8.0\DevSkill.Inventory.Web.sourcelink.json
+W:\ASPdotNet\mahmudul-hasan-suzan-dotNet\DevSlkill.Inventory\DevSkill.Inventory.Web\obj\Debug\net8.0\DevSkill.Inventory.Web.dll
+W:\ASPdotNet\mahmudul-hasan-suzan-dotNet\DevSlkill.Inventory\DevSkill.Inventory.Web\obj\Debug\net8.0\refint\DevSkill.Inventory.Web.dll
+W:\ASPdotNet\mahmudul-hasan-suzan-dotNet\DevSlkill.Inventory\DevSkill.Inventory.Web\obj\Debug\net8.0\DevSkill.Inventory.Web.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rsbcaDrEj5d3/2a/j5fqzlfbVgG61UjrKCmpoB1vWyONrvdFojMApJsN/4O+Oupi3F3ooMXVQ1OBH74YqbcFyw==",
+  "dgSpecHash": "YsSP8ID7VCsa62k+wMEZVxtFhMei3Kx0d5uyor8sStiXFzWQPVJP2rLojaPM5B/L9fU/eqaIY6FCICPd3DNOUQ==",
   "success": true,
-  "projectFilePath": "W:\\ASPdotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj",
+  "projectFilePath": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mahmu\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mahmu\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

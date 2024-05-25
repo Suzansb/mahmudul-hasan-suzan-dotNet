@@ -22,6 +22,11 @@ namespace DevSkill.Inventory.Web.Controllers
         {
             return View();
         }
+        public IActionResult Test()
+        {
+            var model=new TestModel();
+            return View(model);
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

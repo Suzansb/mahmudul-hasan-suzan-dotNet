@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "W:\\ASPdotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj": {}
+    "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj": {}
   },
   "projects": {
-    "W:\\ASPdotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj": {
+    "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "W:\\ASPdotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj",
+        "projectUniqueName": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj",
         "projectName": "DevSkill.Inventory.Web",
-        "projectPath": "W:\\ASPdotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj",
+        "projectPath": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj",
         "packagesPath": "C:\\Users\\mahmu\\.nuget\\packages\\",
-        "outputPath": "W:\\ASPdotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\obj\\",
+        "outputPath": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mahmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
