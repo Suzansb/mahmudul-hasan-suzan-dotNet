@@ -1,7 +1,12 @@
+
 using DevSkill.Inventory.Web.Data;
+using DevSkill.Inventory.Web.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Autofac.Extensions.DependencyInjection;
 using Serilog;
+using Autofac;
+using Serilog.Events;
 
 var configuration=new ConfigurationBuilder()
     .SetBasePath(Directory.GetCurrentDirectory ())
@@ -14,7 +19,16 @@ Log.Logger = new LoggerConfiguration()
 
 try
 {
+    Log.Information("Application Started");
     var builder = WebApplication.CreateBuilder(args);
+
+    #region Serilog General Configuration
+    builder.Host.UseSerilog((ctx, lc) => lc
+        .MinimumLevel.Debug()
+        .MinimumLevel.Override("Microsoft", LogEventLevel.Warning)
+        .Enrich.FromLogContext()
+        .ReadFrom.Configuration(builder.Configuration));
+    #endregion
 
     // Add services to the container.
     var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
@@ -25,6 +39,18 @@ try
     builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
         .AddEntityFrameworkStores<ApplicationDbContext>();
     builder.Services.AddControllersWithViews();
+    //builder.Services.AddTransient<IEmailSender, EmailSender>();
+    //builder.Services.AddKeyedScoped<IEmailSender, EmailSender>("home");
+
+    #region Autopac configuration
+    builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
+    builder.Host.ConfigureContainer<ContainerBuilder>(containerBuilder =>
+    {
+        containerBuilder.RegisterModule(new Webmodule());
+    });
+    #endregion
+
+    //builder.Services.AddHttpContextAccessor();
 
     var app = builder.Build();
 
@@ -39,6 +65,7 @@ try
         // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
         app.UseHsts();
     }
+
 
     app.UseHttpsRedirection();
     app.UseStaticFiles();

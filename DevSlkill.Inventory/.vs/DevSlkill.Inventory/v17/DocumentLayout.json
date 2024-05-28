@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|w:\\aspdotnet\\mahmudul-hasan-suzan-dotnet\\devslkill.inventory\\devskill.inventory.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|solutionrelative:devskill.inventory.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|w:\\aspdotnet\\mahmudul-hasan-suzan-dotnet\\devslkill.inventory\\devskill.inventory.web\\views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|solutionrelative:devskill.inventory.web\\views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|w:\\aspdotnet\\mahmudul-hasan-suzan-dotnet\\devslkill.inventory\\devskill.inventory.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|solutionrelative:devskill.inventory.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|w:\\aspdotnet\\mahmudul-hasan-suzan-dotnet\\devslkill.inventory\\devskill.inventory.web\\models\\testmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|solutionrelative:devskill.inventory.web\\models\\testmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|w:\\aspdotnet\\mahmudul-hasan-suzan-dotnet\\devslkill.inventory\\devskill.inventory.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|solutionrelative:devskill.inventory.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|w:\\aspdotnet\\mahmudul-hasan-suzan-dotnet\\devslkill.inventory\\devskill.inventory.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|solutionrelative:devskill.inventory.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|w:\\aspdotnet\\mahmudul-hasan-suzan-dotnet\\devslkill.inventory\\devskill.inventory.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|solutionrelative:devskill.inventory.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|w:\\aspdotnet\\mahmudul-hasan-suzan-dotnet\\devslkill.inventory\\devskill.inventory.web\\models\\webmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|solutionrelative:devskill.inventory.web\\models\\webmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|w:\\aspdotnet\\mahmudul-hasan-suzan-dotnet\\devslkill.inventory\\devskill.inventory.web\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|solutionrelative:devskill.inventory.web\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|w:\\aspdotnet\\mahmudul-hasan-suzan-dotnet\\devslkill.inventory\\devskill.inventory.web\\models\\imembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|solutionrelative:devskill.inventory.web\\models\\imembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|w:\\aspdotnet\\mahmudul-hasan-suzan-dotnet\\devslkill.inventory\\devskill.inventory.web\\logs\\web-log-20240528.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|solutionrelative:devskill.inventory.web\\logs\\web-log-20240528.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|w:\\aspdotnet\\mahmudul-hasan-suzan-dotnet\\devslkill.inventory\\devskill.inventory.web\\models\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|solutionrelative:devskill.inventory.web\\models\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|w:\\aspdotnet\\mahmudul-hasan-suzan-dotnet\\devslkill.inventory\\devskill.inventory.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|solutionrelative:devskill.inventory.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|w:\\aspdotnet\\mahmudul-hasan-suzan-dotnet\\devslkill.inventory\\devskill.inventory.web\\models\\testmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DB5460-9C38-4218-ABD9-A0E6C1AFF620}|DevSkill.Inventory.Web\\DevSkill.Inventory.Web.csproj|solutionrelative:devskill.inventory.web\\models\\testmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DevSkill.Inventory.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DevSkill.Inventory.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAABoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-25T17:19:06.007Z",
+              "DocumentIndex": 5,
+              "Title": "web-log-20240528.log",
+              "DocumentMoniker": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Logs\\web-log-20240528.log",
+              "RelativeDocumentMoniker": "DevSkill.Inventory.Web\\Logs\\web-log-20240528.log",
+              "ToolTip": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Logs\\web-log-20240528.log",
+              "RelativeToolTip": "DevSkill.Inventory.Web\\Logs\\web-log-20240528.log",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-28T06:33:55.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "DevSkill.Inventory.Web\\Views\\_ViewImports.cshtml",
-              "ToolTip": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "DevSkill.Inventory.Web\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-25T10:47:07.753Z",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "DevSkill.Inventory.Web\\appsettings.json",
+              "ToolTip": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\appsettings.json",
+              "RelativeToolTip": "DevSkill.Inventory.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T18:28:02.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Test.cshtml",
-              "DocumentMoniker": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Views\\Home\\Test.cshtml",
-              "RelativeDocumentMoniker": "DevSkill.Inventory.Web\\Views\\Home\\Test.cshtml",
-              "ToolTip": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Views\\Home\\Test.cshtml",
-              "RelativeToolTip": "DevSkill.Inventory.Web\\Views\\Home\\Test.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-25T10:23:14.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TestModel.cs",
-              "DocumentMoniker": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Models\\TestModel.cs",
-              "RelativeDocumentMoniker": "DevSkill.Inventory.Web\\Models\\TestModel.cs",
-              "ToolTip": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Models\\TestModel.cs",
-              "RelativeToolTip": "DevSkill.Inventory.Web\\Models\\TestModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T09:21:59.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Program.cs",
-              "RelativeDocumentMoniker": "DevSkill.Inventory.Web\\Program.cs",
-              "ToolTip": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Program.cs",
-              "RelativeToolTip": "DevSkill.Inventory.Web\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T17:16:26.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DevSkill.Inventory.Web\\Controllers\\HomeController.cs",
               "ToolTip": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Controllers\\HomeController.cs",
               "RelativeToolTip": "DevSkill.Inventory.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T16:43:23.498Z",
+              "WhenOpened": "2024-05-27T17:54:36.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Webmodule.cs",
+              "DocumentMoniker": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Models\\Webmodule.cs",
+              "RelativeDocumentMoniker": "DevSkill.Inventory.Web\\Models\\Webmodule.cs",
+              "ToolTip": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Models\\Webmodule.cs",
+              "RelativeToolTip": "DevSkill.Inventory.Web\\Models\\Webmodule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:10:41.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Membership.cs",
+              "DocumentMoniker": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Models\\Membership.cs",
+              "RelativeDocumentMoniker": "DevSkill.Inventory.Web\\Models\\Membership.cs",
+              "ToolTip": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Models\\Membership.cs",
+              "RelativeToolTip": "DevSkill.Inventory.Web\\Models\\Membership.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:09:42.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMembership.cs",
+              "DocumentMoniker": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Models\\IMembership.cs",
+              "RelativeDocumentMoniker": "DevSkill.Inventory.Web\\Models\\IMembership.cs",
+              "ToolTip": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Models\\IMembership.cs",
+              "RelativeToolTip": "DevSkill.Inventory.Web\\Models\\IMembership.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:09:18.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestModel.cs",
+              "DocumentMoniker": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Models\\TestModel.cs",
+              "RelativeDocumentMoniker": "DevSkill.Inventory.Web\\Models\\TestModel.cs",
+              "ToolTip": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Models\\TestModel.cs",
+              "RelativeToolTip": "DevSkill.Inventory.Web\\Models\\TestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:17:28.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Program.cs",
+              "RelativeDocumentMoniker": "DevSkill.Inventory.Web\\Program.cs",
+              "ToolTip": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Program.cs",
+              "RelativeToolTip": "DevSkill.Inventory.Web\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAB0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:35:35.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Models\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "DevSkill.Inventory.Web\\Models\\IEmailSender.cs",
+              "ToolTip": "W:\\ASPdotNet\\mahmudul-hasan-suzan-dotNet\\DevSlkill.Inventory\\DevSkill.Inventory.Web\\Models\\IEmailSender.cs",
+              "RelativeToolTip": "DevSkill.Inventory.Web\\Models\\IEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:04:41.325Z",
               "EditorCaption": ""
             }
           ]
