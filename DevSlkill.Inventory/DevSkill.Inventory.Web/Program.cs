@@ -8,7 +8,8 @@ using Serilog;
 using Autofac;
 using Serilog.Events;
 
-var configuration=new ConfigurationBuilder()
+#region Bootstrap logger config
+var configuration =new ConfigurationBuilder()
     .SetBasePath(Directory.GetCurrentDirectory ())
     .AddJsonFile("appsettings.json")
     .Build();
@@ -16,6 +17,8 @@ var configuration=new ConfigurationBuilder()
 Log.Logger = new LoggerConfiguration()
     .ReadFrom.Configuration(configuration)
     .CreateBootstrapLogger();
+
+#endregion
 
 try
 {
